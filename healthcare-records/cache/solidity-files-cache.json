@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\PC\\healthcare-records\\contracts\\HealthRecordManagement.sol": {
+      "lastModificationDate": 1731184873091,
+      "contentHash": "166b82eabd7167940e65fe5e2b5005e6",
+      "sourceName": "contracts/HealthRecordManagement.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "HealthRecordManagement"
+      ]
+    }
+  }
+}
